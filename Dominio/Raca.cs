@@ -5,4 +5,5 @@ public class Raca
     private int id;
     private string nome;
     private string habilidade;
+    private string localizacaoGeografica;
 }
